@@ -8,7 +8,7 @@ public class ttt {
 		// TODO Auto-generated method stub
 
 		System.out.println("haha");
-		System.out.println("hihi^__________^");
+		System.out.println("hihi^_^");
 
 
 	}
